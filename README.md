@@ -1,4 +1,3 @@
-Here's a refined version of the project summary, designed to be engaging for a GitHub README file. It includes emojis and formatted sections for better readability:
 
 ---
 
@@ -65,4 +64,4 @@ To explore the code and run the analysis, clone the repository and ensure the re
 
 ---
 
-With this format, the README file is interactive and engaging, providing all the necessary details in an appealing way. Let me know if you'd like any further modifications!
+
